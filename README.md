@@ -1,3 +1,5 @@
-# Introduction to Machine Learning Theory_studty
+# Introduction to Machine Learning Theory_study
 
-https://wikibook.co.kr/machine-learning-theory/
+Book Information : https://wikibook.co.kr/machine-learning-theory/
+
+Self-Study of example codes
